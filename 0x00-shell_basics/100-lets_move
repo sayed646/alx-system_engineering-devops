@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/u is_so_cool
+mv [[:upper:]]* /tmp/u
