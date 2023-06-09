@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /root
+ls -l ./, ../, 103-commas, file0.c, file1.c
