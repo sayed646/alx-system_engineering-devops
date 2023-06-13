@@ -1,3 +1,6 @@
+#!/bin/bash 
+head -n 3 icata
+
 Alea iacta est
 
 Alea iacta est ("The die is cast") is a Latin phrase attributed by Suetonius
