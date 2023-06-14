@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "path" > n:/action
+echo "path" >> n:/action
